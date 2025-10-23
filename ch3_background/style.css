@@ -1,0 +1,6 @@
+body{
+    background-color: yellowgreen;
+    background-image: url("https://images.pexels.com/photos/1553406/pexels-photo-1553406.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-repeat: repeat;
+    background-size: cover;
+}
