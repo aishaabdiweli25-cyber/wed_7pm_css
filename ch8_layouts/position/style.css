@@ -1,0 +1,31 @@
+#the_green{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    position: static;
+    border-style: solid;
+    border-color: green;
+    border-width: 15px;
+}
+
+#the_blue{
+    height: 300px;
+    width: 300px;
+     border-radius: 20px;
+    position: relative;
+    left: 200px;
+    border-style: solid;
+    border-color: blue;
+    border-width: 15px;
+}
+
+
+#the_red{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    position: static;
+    border-style: solid;
+    border-color: red;
+    border-width: 15px;
+:
