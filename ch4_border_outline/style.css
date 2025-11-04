@@ -15,6 +15,10 @@ div{
     border-bottom-color: red;
 
 outline-style: dashed;
-outline-width: 15px]d sa;
+outline-width: 5px;
+outline-color: red;
+outline-offset: 5px;
+
+
 
 }

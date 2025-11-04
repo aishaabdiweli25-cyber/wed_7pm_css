@@ -1,0 +1,18 @@
+#thetopone{
+color: blue;                  /* 1) Text color */
+  text-align: center;             /* 2) Text alignment */
+  text-decoration: overline;   /* 3) Text decoration */
+  text-transform: uppercase;    /* 4) Text transformation */
+  text-indent: 50px;            /* 5) Text indentation */
+  text-shadow: 10px 10px 5px red; /* 6) Text shadowing */
+
+
+  
+font-size: 70px;
+
+}
+
+.thebottomone{
+text-indent: 50px;
+letter-spacing: 1px;
+}

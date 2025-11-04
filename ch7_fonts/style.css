@@ -1,0 +1,63 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 40px auto;
+  max-width: 700px;
+  background-color: #f9fafb;
+  color: #333;
+  line-height: 1.6;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 2em;
+}
+
+.example {
+  background: #fff;
+  border-left: 6px solid #4f46e5;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 24px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.05);
+}
+
+.example h2 {
+  margin-top: 0;
+  color: #4f46e5;
+}
+
+/* 1. font-family */
+.font-family p {
+  font-family: "Georgia", "Times New Roman", serif;
+}
+
+/* 2. font-style */
+.font-style p {
+  font-style: italic;
+}
+
+/* 3. font-size */
+.font-size p {
+  font-size: 24px;
+}
+
+/* 4. font-variant */
+.font-variant p {
+  font-variant: small-caps;
+}
+
+/* 5. font-weight */
+.font-weight p {
+  font-weight: bolder;
+}
+
+/* 6. line-height */
+.line-height p {
+  line-height: 2;
+}
+
+/* 7. font shorthand */
+.font-shorthand p {
+  font: italic small-caps bold 1.25rem/1.8 "Georgia", serif;
+}
